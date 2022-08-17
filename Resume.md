@@ -6,10 +6,9 @@
 - High School
 
 ## Employment History
--Peachtree City Elemetary 
--Student worker
--Custodian 
-Cutting grass
+- Peachtree City Elemetary 
+- Student worker 
+- Cutting grass
 
 ## Hobbies
 - Playing GTA and FN
