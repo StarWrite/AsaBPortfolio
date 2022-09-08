@@ -3,3 +3,5 @@ Hello, my name is Asa. This is my portfolio for Introduction to Software Technol
 
 ## Contents
 [Resume](Resume.md)
+
+[BinaryLogic](Binary-Logic.md)
