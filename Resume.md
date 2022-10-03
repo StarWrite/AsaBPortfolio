@@ -16,7 +16,7 @@
 - Coding tings
 
 ## Typing
--Keys Learned
+- Keys Learned
 - J, F, & Space
 - R and U
   
