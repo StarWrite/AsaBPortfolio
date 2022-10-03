@@ -17,6 +17,6 @@
 
 ## Typing
 - Keys Learned
-- J, F, & Space
-- R and U
+-  J, F, & Space
+-  R and U
   
