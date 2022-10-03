@@ -14,6 +14,7 @@
 - Playing GTA and FN
 - Playing Basketball
 - Coding tings
+
 ## Typing
 -Keys Learned
 -J, F, & Space
