@@ -19,4 +19,5 @@
 - Keys Learned
 -  J, F, & Space
 -  R and U
+-  WPM= 23%
   
